@@ -1,0 +1,19 @@
+:root {
+  --card-width: 157px;
+  --card-height: 220px;
+}
+
+.card-container {
+  margin-top: 30px;
+  position: relative;
+}
+
+.card {
+  position: absolute;
+  height: var(--card-height);
+  width: var(--card-width);
+}
+
+.card-inner{
+  
+}
